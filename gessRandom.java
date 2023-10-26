@@ -1,9 +1,8 @@
 import java.util.Scanner;
-import java.io.SyncFailedException;
 import java.lang.Math;
 public class gessRandom {
     double randomNum;
-    int number,temp;
+    int number;
 
     // taking user input
     public void userInput()
@@ -50,8 +49,3 @@ public class gessRandom {
         
     }
 }
-
-// git add .
-//git commit -m "added guess number code"
-// git push origin master
-// git log
